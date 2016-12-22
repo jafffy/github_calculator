@@ -19,6 +19,8 @@ float div(float a, float b) {
 int main()
 {
   printf("Hello, world!");
+
+  printf("1 + 1 = %d", add(1, 1));
   
   return 0;
 }
