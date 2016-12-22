@@ -12,6 +12,10 @@ int mul(int a, int b) {
   return a * b;
 }
 
+float div(float a, float b) {
+  return a / b;
+}
+
 int main()
 {
   printf("Hello, world!");
